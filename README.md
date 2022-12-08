@@ -6,9 +6,15 @@ This repository contains the files for various machine learning and deep learnin
 A list of the ML and DL algorithms that have been used are:
 
 Multiple Linear Regression
+
 Logistic Regression
+
 K Nearest Neighbours
+
 Naive Bayes Classifier
+
 Random Forest Classifier
+
 Neural Network Classifier
+
 The neural network classifier contains a custom loss function, which helps to deal with the dataset imbalance. The dataset is taken from Kaggle, and is available in the Dataset folder.
